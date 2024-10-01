@@ -1,0 +1,49 @@
+body{
+    background-image: url(Img/Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna_aliqua._Ut_enim_ad_minim_veniam_quis_nostrud_exercitation_ullamco_laboris_nisi_.jpg);
+    /*background-color: rgb(227, 230, 230);*/
+}
+
+h1{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 51px;
+    color: rgb(255, 0, 0);
+}
+
+.sommaire{
+    color: blueviolet;
+}
+
+p,a,li{
+    font-size: 25px;
+    color: white;
+    
+}
+
+li{
+    margin-left: 30px;
+}
+
+p{
+    text-align: justify;
+    padding: 20px;
+}
+
+.bouton{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.bouton:hover{
+    background-color: rgb(135, 135, 135);
+}
+
+.bouton:active{
+    background-color:rgb(204, 204, 204) ;
+}
+
+.direction{
+    margin-left: 45%;
+}
